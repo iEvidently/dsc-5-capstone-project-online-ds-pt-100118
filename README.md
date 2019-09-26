@@ -1,7 +1,7 @@
 
-# Module 4 Final Project
+# Dengue Fever Machine Learning Prediction Project
 
-<<<<<<< HEAD
+
 This repo is for a machine learning project to predict the number of weekly cases of Dengue Fever in San Juan, Puerto Rico and Iquitos, Peru.
 
 Keras and Tensorflow libraries were utilized in a Python Jupyter notebook.
